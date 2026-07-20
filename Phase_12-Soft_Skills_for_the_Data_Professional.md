@@ -24,7 +24,7 @@ The CEO has an MBA, not a Ph.D. in Statistics. If you say, "The p-value is 0.03,
 
 **Where companies use it:** Every single day. In stand-ups, in review meetings, in emails, in Slack messages.
 
-**The "Sterling" Translation Matrix (Memorize This):**
+**The Translation Matrix (Memorize This):**
 
 | Technical Jargon | Business Translation |
 | :--- | :--- |
@@ -100,7 +100,7 @@ The VP of Sales demands a dashboard for a new product line by Friday. You have n
 ### Why is it important?
 Executives scan emails for 3 seconds. If you bury the point in paragraph 3, your email is ignored.
 
-### The "Sterling" Email Template:
+### The Email Template:
 
 ```text
     Subject: [ACTION REQUIRED] Approval for Q4 Marketing Budget Increase
@@ -270,7 +270,7 @@ Companies have enough "reporters." They hire analysts to be detectives.
 ### Why is it important?
 If you get hit by a bus (or get promoted), someone needs to maintain your work. Good documentation makes that possible.
 
-### The "Sterling" Documentation Trinity:
+### The Documentation Trinity:
 
 1. **Data Dictionary:** A spreadsheet/Word doc explaining every column name, its data type, and what it means in plain English.
 
@@ -355,7 +355,7 @@ If you get hit by a bus (or get promoted), someone needs to maintain your work. 
 
 ## Phase 12 Summary / Cheat Sheet
 
-### The "Sterling" Communication Commandments:
+### The Communication Commandments:
 
 1. **BLUF:** Bottom Line Up Front. Always, always, always.
 
