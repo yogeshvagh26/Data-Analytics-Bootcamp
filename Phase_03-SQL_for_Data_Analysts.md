@@ -90,7 +90,7 @@ The `SELECT` statement retrieves data from a database.
 
 * **SELECT:** Tells the database *which columns you want*.
 
-* **`*` (Asterisk):** Selects all columns. (*Prof. Sterling's Note: Avoid `SELECT *` in production; it slows queries down*).
+* **`*` (Asterisk):** Selects all columns. (*Note: Avoid `SELECT *` in production; it slows queries down*).
 
 * **WHERE:** Filters rows based on conditions.
 
