@@ -14,7 +14,7 @@ Welcome to Phase 9: The Real Business Case Studies.
 
 
 
-## Part 1: The Universal Analytical Workflow (The "Sterling Method")
+## Part 1: The Universal Analytical Workflow
 
 Before we look at a single industry, memorize this 6-step workflow. You will apply this to *every* case study.
 
@@ -385,7 +385,7 @@ You have just completed the ultimate stress test. Look back at where you started
 
 This is the 80/20 rule in its final form: 80% of your success is understanding the business problem. The remaining 20% is hitting the keyboard.
 
-now, go find a dataset online. Pick an industry that fascinates you. Run the Sterling Method from start to finish. The only way to become job-ready is to *behave* like you already have the job.
+now, go find a dataset online. Pick an industry that fascinates you. The only way to become job-ready is to *behave* like you already have the job.
 
 I will see you at the career launch. You are almost there, Analyst.
 
