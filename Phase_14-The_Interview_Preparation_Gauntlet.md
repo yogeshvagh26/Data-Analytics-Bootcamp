@@ -22,7 +22,7 @@ By the end of this phase, you will not just *survive* the interview. You will **
 
 Before we dive into specific questions, you must memorize this universal answering structure. Apply it to every question, technical or behavioral.
 
-**The "Sterling" Answering Framework:**
+**The Answering Framework:**
 
 1. **Pause & Clarify:** "That is a great question. To give you a precise answer, can I clarify if we are looking at **X** or **Y**?" (This buys you time and shows due diligence).
 
@@ -43,7 +43,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 * *Question:* "Write a SQL query to find the top 3 highest-paid employees in each department."
 
-* *The "Sterling" Approach:* "I will use a Window Function with `ROW_NUMBER()` partitioned by department and ordered by salary descending."
+* *Approach:* "I will use a Window Function with `ROW_NUMBER()` partitioned by department and ordered by salary descending."
 
 * *Syntax:*
 
@@ -132,7 +132,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 * *Question:* "You have a DataFrame `df` with a column `date` (string format 'YYYY-MM-DD') and a column `sales` (with some nulls). Fill the nulls with the mean, and convert the date column to datetime."
 
-* *The "Sterling" Approach:* "I will use `pd.to_datetime()` for the date, `fillna()` for the nulls, and use a copy to avoid a warning."
+* *Approach:* "I will use `pd.to_datetime()` for the date, `fillna()` for the nulls, and use a copy to avoid a warning."
 
 * *Syntax:*
 
@@ -198,7 +198,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 * *Question:* "Your A/B test shows a p-value of 0.04. What does this mean?"
 
-* *The "Sterling" Translation:* "A p-value of 0.04 means that if there were no real difference between the control and the variant (the null hypothesis), there is only a 4% chance of observing the data we got (or something more extreme). Since 0.04 is less than the common threshold of 0.05, we reject the null hypothesis and conclude the change is statistically significant. However, I would also check the lift size to ensure it is practically significant for the business."
+* *Translation:* "A p-value of 0.04 means that if there were no real difference between the control and the variant (the null hypothesis), there is only a 4% chance of observing the data we got (or something more extreme). Since 0.04 is less than the common threshold of 0.05, we reject the null hypothesis and conclude the change is statistically significant. However, I would also check the lift size to ensure it is practically significant for the business."
 
 **Q2: The "Confidence Interval" Question.**
 
@@ -259,7 +259,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 **Q1: "Tell me about a time you had to deliver bad news from your analysis."**
 
-* **The "Sterling" Answer:**
+* **Answer:**
 
     * **S:** "I was analyzing a marketing campaign and found it had a negative ROI."
 
@@ -272,7 +272,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 **Q2: "Tell me about a time you made a mistake in your analysis."**
 
-* **The "Sterling" Answer (*SHOW HUMILITY AND LEARNING*):**
+* **Answer (*SHOW HUMILITY AND LEARNING*):**
     * **S:** "I was building a sales dashboard and accidentally used a `LEFT JOIN` instead of an `INNER JOIN`, which duplicated sales records for customers with multiple orders."
 
     * **T:** "I had to fix it before the VP's morning presentation."
@@ -353,7 +353,7 @@ Here are the Top 5 SQL patterns that appear in 80% of interviews.
 
 ## Phase 14 Summary / Cheat Sheet
 
-**The "Sterling" Interview Commandments:**
+**Interview Commandments:**
 
 1. **Pause:** Breathe before answering. It buys you time.
 
