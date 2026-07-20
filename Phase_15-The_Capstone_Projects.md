@@ -17,7 +17,7 @@ Welcome to Phase 15: The Capstone Projects.
 # Phase 15: The Capstone Projects
 
 
-## Part 1: The Capstone Philosophy (The "Sterling" Method)
+## Part 1: The Capstone Philosophy
 
 **Concept:** A Capstone Project is a complete end-to-end analytics solution that demonstrates your ability to solve a real business problem.
 
@@ -596,7 +596,7 @@ Here are the 10 other Capstone ideas with the key analytics twist:
 
 1. **Question:** "Walk me through your Capstone project from start to finish."
 
-    * *Expected Answer:* Use the "Sterling" Storytelling Structure. Start with the business problem, move through the ETL process, the analysis, the dashboard, and end with the actionable recommendations and quantified impact.
+    * *Expected Answer:* Use the Storytelling Structure. Start with the business problem, move through the ETL process, the analysis, the dashboard, and end with the actionable recommendations and quantified impact.
 
 2. **Question:** "What was the most challenging part of this project?"
 
@@ -627,7 +627,7 @@ Here are the 10 other Capstone ideas with the key analytics twist:
 10. Resume Description
 11. LinkedIn Article
 
-**The "Sterling" Golden Rule for Capstones:**
+**The Golden Rule for Capstones:**
 
 *"Don't just show the data. Tell the story. Don't just show the dashboard. Show the impact."*
 
