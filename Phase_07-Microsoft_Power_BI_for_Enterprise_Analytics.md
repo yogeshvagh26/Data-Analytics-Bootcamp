@@ -357,7 +357,7 @@ You are the Senior Data Analyst for NovaTech, a mid-sized IT services firm. The 
 * `Revenue per Customer = DIVIDE([Total Revenue], DISTINCTCOUNT(FactSales[CustomerID]), 0)`
 
 
-**3. Dashboard Layout (The "Sterling Blueprint"):**
+**3. Dashboard Layout:**
 
 * **Header:** NovaTech Logo, Dashboard Title, "Last Refreshed" timestamp.
 
