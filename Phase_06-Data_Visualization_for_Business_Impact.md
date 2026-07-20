@@ -135,7 +135,7 @@ A CEO asks: "Give me a one-page view of the company."
 ---
 
 
-## Part 3: Visualization Best Practices (The "Sterling Design Code")
+## Part 3: Visualization Best Practices
 
 **A. The 5-Second Rule:**
 
@@ -277,7 +277,7 @@ Data without narrative is just noise. You are not a reporter; you are a *speaker
 
 A dashboard is a single screen with a collection of visualizations that provides an at-a-glance view of key metrics.
 
-### The "Sterling Dashboard Blueprint":
+### Dashboard Blueprint":
 
 1. **Header:** Company logo, Dashboard Title, "Last Updated" timestamp (crucial).
 
