@@ -1,4 +1,4 @@
-**Welcome to the Final Phase. This is Professor Sterling.**
+####  Welcome back! 😀
 
 We have conquered the technical mountain. You have built a world-class portfolio. You can write SQL in your sleep, debug Python like a pro, and handle a hostile stakeholder with grace. But there is one final, brutal obstacle between you and your dream job: **The Application Process.**
 
@@ -35,7 +35,7 @@ Welcome to Phase 13: The Career Launchpad.
 
 ***
 
-### Best Practices (The "Sterling" Resume Rules):
+### Best Practices (The Resume Rules):
 
 **1. The ATS (Applicant Tracking System) Rules:**
 
@@ -49,7 +49,7 @@ Welcome to Phase 13: The Career Launchpad.
 
 
 
-**2. The "Sterling" Resume Structure (1 Page Maximum - 2 Pages MAX if senior):**
+**2. The Resume Structure (1 Page Maximum - 2 Pages MAX if senior):**
 
 **Section 1: Header (Top 20% of the page)**
 
@@ -146,7 +146,7 @@ Welcome to Phase 13: The Career Launchpad.
 * **Passive Income:** An optimized profile gets recruiters approaching *you*, saving you from the grind of applying to 100 jobs.
 
 
-### The "Sterling" LinkedIn Checklist:
+### The LinkedIn Checklist:
 
 **1. Profile Photo:** Professional headshot. No selfies, no group photos. (Spend $50 to get a professional one—worth every penny).
 
@@ -197,7 +197,7 @@ Welcome to Phase 13: The Career Launchpad.
 
 When a hiring manager asks, "Tell me about a time you solved a complex problem," you hand them the Case Study. It proves you can think critically and communicate clearly.
 
-### The "Sterling" Case Study Structure:
+### The Case Study Structure:
 
 **Title:** `[Project Name]` - Using `[Technology]` to Solve `[Business Problem]`
 
@@ -276,7 +276,7 @@ When a hiring manager asks, "Tell me about a time you solved a complex problem,"
 
 ---
 
-## Part 5: The "Sterling" Job Application Strategy
+## Part 5: The Job Application Strategy
 
 **Concept:** Spraying your resume to 500 jobs is a waste of time. A targeted strategy gets you hired faster.
 
@@ -319,7 +319,7 @@ When a hiring manager asks, "Tell me about a time you solved a complex problem,"
 
 **1. Audit:** Copy your current resume.
 
-**2. Rewrite:** Using the "Sterling" template, rewrite your resume. Focus on *quantified achievements*.
+**2. Rewrite:** Using the template, rewrite your resume. Focus on *quantified achievements*.
 
 **3. ATS Check:** Use a free tool like **Jobscan** to compare your resume against a target job description. What is your match rate? (Aim for 80%+).
 
@@ -340,7 +340,7 @@ When a hiring manager asks, "Tell me about a time you solved a complex problem,"
 
 * A 1-page (or 2-page) resume that is ATS-friendly and mirrors the keywords from the job description provided.
 
-**2. The "Sterling" Case Study:**
+**2. The Case Study:**
 
 * Choose your best portfolio project (Churn, Sales, or A/B Testing).
 * Write a 5-page Case Study in PDF format.
