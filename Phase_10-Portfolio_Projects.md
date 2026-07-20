@@ -294,7 +294,7 @@ You don't need to build all of these, but here is the 80/20 cheat sheet for how 
 
 **Concept:** You must package these projects for the hiring manager. A messy GitHub is a red flag.
 
-**The "Sterling" Repository Structure:**
+**The Repository Structure:**
 
 1. **Project Folders:** `Project_1_Sales_Dashboard`, `Project_2_Churn_Analysis`, `Project_3_AB_Testing`.
 
@@ -455,9 +455,8 @@ Walk into that interview, open your GitHub, show them the "ConnectTel" Churn Das
 
 You are no longer a student. You are a **Senior Data Analyst.**
 
-Now, go get hired. This is Professor Sterling, signing off. Godspeed.
 
-
+---
 
 
 <br/><br/><br/>
